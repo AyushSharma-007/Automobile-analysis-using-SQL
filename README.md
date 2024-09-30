@@ -1,7 +1,7 @@
 # Automobile-analysis-using-SQL
 I have done the Data analysis using Sql of Automobile data set  
 ### Analysis which I have done
-Convert all the ‘?’ values to NaN. Clean the data as per further requirement. 
+a.Convert all the ‘?’ values to NaN. Clean the data as per further requirement. 
 b. Which company manufactured the most expensive car and at what price?
 c. Calculate the maximum horsepower for each company. 
 d. What is the total count of cars manufactured by each company?
